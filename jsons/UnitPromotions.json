@@ -6,15 +6,17 @@
             "[+33]% Strength <when fighting in [Tundra] tiles>",
             "Double movement in [Snow]",
 	    "[+1] Movement",
+	    "[+1] Sight",
 	    "All healing effects doubled",
 	    "Ignores terrain cost",
 	    "Unit will heal every turn, even if it performs an action",
-            "Double movement in [Tundra]"]
+            "Double movement in [Tundra]",
+	    "Double movement in [Snow]"]
 	},
 	{
 		"name": "Altitude Training",
 		"uniques": [
-            "[+10]% Strength <when fighting in [Hill] tiles>",
+            "[+50]% Strength <vs [Barbarian] units>",
             "Double movement in [Hill]"]
 	}
 ]
