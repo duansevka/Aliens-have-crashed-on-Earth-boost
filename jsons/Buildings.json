@@ -21,7 +21,7 @@
 		"hurryCostModifier": 200,
 		"happiness": 2,
 		"maintenance": 2,
-		"uniques": ["[33]% Food is carried over after population increases [in this city]", "[+15]% growth [in this city] <when at war>"],
+		"uniques": ["[100]% Food is carried over after population increases [in this city]", "[+25]% growth [in this city]"],
 		"requiredTech": "Engineering",
         "civilopediaText":[{"text":"While the Aliens do sport a vigorous libido, their minds are too perverted to conentrate on procreation. To avoid extinction, they've come up with these tanks, which essentially contain a living embryo-producing bioconstruct engineered from their own genome."}]
 	}
