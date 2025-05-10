@@ -12,7 +12,7 @@
                     "Can build [Land] improvements on tiles",
                     "Can build [Plantation] improvements on tiles",
                     "[+50]% tile improvement construction time",
-                    "+1 [Movement] after discovering [Combustion]",
+                    "+1 [Movement] <after discovering [Combustion]>",
                     "Can instantly construct a [Penguin Hatchery] improvement <by consuming this unit>"],
 		"hurryCostModifier": 0,
 		"cost": 50,
