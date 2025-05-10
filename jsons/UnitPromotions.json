@@ -11,7 +11,7 @@
 	    "Ignores terrain cost",
 	    "Unit will heal every turn, even if it performs an action",
             "Double movement in [Tundra]",
-	    "Double movement in [Snow]"]
+	    "Double movement in [Land]"]
 	},
 	{
 		"name": "Altitude Training",
