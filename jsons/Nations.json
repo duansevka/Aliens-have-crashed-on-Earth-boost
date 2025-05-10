@@ -47,7 +47,7 @@
 			"[+1 Food] from every [Grassland]",
 			"[+1 Food] from every [Plains]",
 			"[+1 Food] from every [Desert]",
-			"[+150]% Production when constructing [All] wonders [in all cities]"
+			"[+150] Production when constructing [All] wonders [in all cities]"
 		],
 
         "cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
