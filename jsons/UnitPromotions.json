@@ -8,10 +8,13 @@
 	    "[+1] Movement",
 	    "[+1] Sight",
 	    "All healing effects doubled",
-	    "Ignores terrain cost",
 	    "Unit will heal every turn, even if it performs an action",
             "Double movement in [Tundra]",
-	    "Double movement in [Land]"]
+	    "Double movement in [Plains]",,
+	    "Double movement in [Grassland]",
+	    "Double movement in [River]",
+	    "Double movement in [Dessert]",
+	    "Double movement in [Ocean]"]
 	},
 	{
 		"name": "Altitude Training",
