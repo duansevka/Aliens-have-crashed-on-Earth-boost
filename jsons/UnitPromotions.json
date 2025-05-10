@@ -5,8 +5,8 @@
             "[+33]% Strength <when fighting in [Snow] tiles>",
             "[+33]% Strength <when fighting in [Tundra] tiles>",
             "Double movement in [Snow]",
-            "Double movement in [Open Terrain]",
-            "Double movement in [Rough Terrain]",
+            "Double movement in [Open terrain] tiles",
+            "Double movement in [Rough terrain] tiles",
             "Double movement in [Tundra]"]
 	},
 	{
