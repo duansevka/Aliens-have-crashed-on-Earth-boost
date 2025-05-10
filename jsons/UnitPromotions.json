@@ -6,6 +6,9 @@
             "[+33]% Strength <when fighting in [Tundra] tiles>",
             "Double movement in [Snow]",
 	    "[+1] Movement",
+	    "All healing effects doubled",
+	    "Ignores terrain cost",
+	    "Unit will heal every turn, even if it performs an action",
             "Double movement in [Tundra]"]
 	},
 	{
