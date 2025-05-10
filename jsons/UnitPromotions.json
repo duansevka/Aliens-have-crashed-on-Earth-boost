@@ -22,4 +22,9 @@
             "[+50]% Strength <vs [Barbarian] units>",
             "Double movement in [Hill]"]
 	}
+	{
+		"name": "Exp Boost",
+		"uniques": [
+            "[+500]% XP <gained from combat>"]
+	}
 ]
