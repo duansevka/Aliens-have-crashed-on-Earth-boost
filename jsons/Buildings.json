@@ -25,4 +25,13 @@
 		"requiredTech": "Engineering",
         "civilopediaText":[{"text":"While the Aliens do sport a vigorous libido, their minds are too perverted to conentrate on procreation. To avoid extinction, they've come up with these tanks, which essentially contain a living embryo-producing bioconstruct engineered from their own genome."}]
 	}
+	{
+		"name": "Fr33 W0rk3r",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [ "Automatically built in all cities where it is buildable",
+		    "Unbuildable <for [AI player] Civilizations>",
+		    "Free [Worker] appears <for [Human player] Civilizations>"]
+	},
 ]
