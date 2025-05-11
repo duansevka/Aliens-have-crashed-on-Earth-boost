@@ -43,14 +43,15 @@
             "[Land] units gain the [Cold heart] promotion",
             "[Land] units gain the [Altitude Training] promotion",
             "[Land] units gain the [Exp Boost] promotion",
+			"May choose [10] additional belief(s) of any type when [founding] a religion",
 			"[+1 Food] from every [Snow]",
 			"[+1 Food] from every [Tundra]",
 			"[+1 Food] from every [Grassland]",
 			"[+1 Food] from every [Plains]",
 			"[+1 Food] from every [Desert]",
 			"[+5000]% Production when constructing [All] wonders [in all cities]",
-			"[-50]% Culture cost of natural border growth [in all cities]",
-			"[-50]% Gold cost of acquiring tiles [in all cities]"
+			"[-90]% Culture cost of natural border growth [in all cities]",
+			"[-90]% Gold cost of acquiring tiles [in all cities]"
 		],
 
         "cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
