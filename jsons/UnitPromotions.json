@@ -5,7 +5,7 @@
             "[+33]% Strength <when fighting in [Snow] tiles>",
             "[+33]% Strength <when fighting in [Tundra] tiles>",
             "Double movement in [Snow]",
-	    "[+1] Movement",
+	    "[+2] Movement",
 	    "[+1] Sight",
 	    "All healing effects doubled",
 	    "Unit will heal every turn, even if it performs an action",
@@ -20,7 +20,8 @@
 		"name": "Altitude Training",
 		"uniques": [
             "[+50]% Strength <vs [Barbarian] units>",
-            "Double movement in [Hill]"]
+            "Double movement in [Hill]"],
+	    "[2] additional attacks per turn", "Can move after attacking"
 	}
 	{
 		"name": "Exp Boost",
