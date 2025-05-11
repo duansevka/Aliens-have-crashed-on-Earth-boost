@@ -3,7 +3,7 @@
 		"name": "Aliens",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
-		"startBias": ["Tundra", "Alien Spacehip"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
