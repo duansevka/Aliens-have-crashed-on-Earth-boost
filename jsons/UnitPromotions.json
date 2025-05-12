@@ -21,7 +21,7 @@
 		"uniques": [
             "[+50]% Strength <vs [Barbarian] units>",
             "Double movement in [Hill]"],
-	    "[2] additional attacks per turn", "Can move after attacking"
+	    "[1] additional attacks per turn", "Can move after attacking"
 	}
 	{
 		"name": "Exp Boost",
