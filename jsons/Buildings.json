@@ -24,7 +24,7 @@
 		"uniques": ["[100]% Food is carried over after population increases [in this city]", "[+25]% growth [in this city]"],
 		"requiredTech": "Engineering",
         "civilopediaText":[{"text":"While the Aliens do sport a vigorous libido, their minds are too perverted to conentrate on procreation. To avoid extinction, they've come up with these tanks, which essentially contain a living embryo-producing bioconstruct engineered from their own genome."}]
-	}
+	},
 	{
 		"name": "Fr33 W0rk3r",
 		"cost": 1,
@@ -34,4 +34,13 @@
 		    "Unbuildable <for [AI player] Civilizations>",
 		    "Free [Worker] appears <for [Human player] Civilizations>"]
 	},
+	{
+		"name": "Public Works Administration",
+		"cost": 125,
+		"isNationalWonder": true,
+		"uniques": ["Can only be built <in [Capital] cities>",
+			"[+25]% Production when constructing [Civilian] units [in all cities]",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Engineering"
+	}
 ]
