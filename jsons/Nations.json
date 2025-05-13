@@ -51,8 +51,8 @@
 			"[+1 Food] from every [Desert]",
 			"[+5000]% Production when constructing [All] wonders [in all cities]",
 			"[-90]% Culture cost of natural border growth [in all cities]",
-			"[-90]% Gold cost of acquiring tiles [in all cities]",
-			"Starts with [Railroads]"
+			"[-90]% Gold cost of acquiring tiles [in all cities]"
+			
 		],
 
         "cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
