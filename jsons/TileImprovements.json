@@ -15,5 +15,17 @@
 			"[+1 Food, +1 Production, +1 Science] <after discovering [Physics]>"],
 		"shortcutKey": "P",
         "civilopediaText":[{"text":"The aliens have found a way to accelerate the gestation period of the Monarch Penguin, and they find their eyeballs quite tasty and invigorating. As for their other ... ... uses..."}]
-	}
+	},
+	{
+		"name": "Railroadz",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 1,
+		"techRequired": "Agriculture",
+		"uniques": ["Can be built outside your borders", "Costs [0] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"},
+            {"text":"Provides a +25% [Production] bonus to cities connected to the capital by Railroads"}
+        ]
+	}	
 ]
