@@ -12,7 +12,7 @@
                     "Can instantly construct a [Land] improvements on tiles",
 		    "Can instantly construct a [Railroad] improvements on tiles",
                     "Can instantly construct a [Plantation] improvements on tiles",
-		    "May create improvements on water resources",
+		    //"May create improvements on water resources",
                     "[-70]% tile improvement construction time",
                     "[+1] Movement <after discovering [Combustion]>",
                     "Can instantly construct a [Penguin Hatchery] improvement <by consuming this unit>"],
