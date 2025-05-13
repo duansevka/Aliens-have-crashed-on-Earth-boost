@@ -17,7 +17,7 @@
         "civilopediaText":[{"text":"The aliens have found a way to accelerate the gestation period of the Monarch Penguin, and they find their eyeballs quite tasty and invigorating. As for their other ... ... uses..."}]
 	},
 	{
-		"name": "Railroadz",
+		"name": "Railroad",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 1,
 		"techRequired": "Agriculture",
